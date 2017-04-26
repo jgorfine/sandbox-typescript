@@ -7,7 +7,7 @@ function showHello(div: string, name: string) {
     const element = document.getElementById(div);
     element.innerText = sayHello(name);
 }
-showHello("greeting", "Bob");
+showHello("greeting", "Ted");
 
 
 function hello(compiler: string) {
