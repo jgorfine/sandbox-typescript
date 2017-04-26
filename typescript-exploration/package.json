@@ -1,0 +1,20 @@
+{
+  "name": "typescript-exploration",
+  "version": "1.0.0",
+  "description": "A safe space in which to learn about and experiment with TypeScript.",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sandbox-typescript"
+  },
+  "author": "Jen Gorfine",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "typescript": "^2.2.2"
+  }
+}
